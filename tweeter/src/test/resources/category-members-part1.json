@@ -1,0 +1,81 @@
+{
+    "batchcomplete": "",
+    "continue": {
+        "cmcontinue": "page|2e46424852502a503a46442a40043852422a440442463032403a443603062e46424852502a503a46442a40043852422a440442463032403a443601251c01dcb9dcc1dcbedc1f|54690679",
+        "continue": "-||"
+    },
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 5323,
+                "ns": 0,
+                "title": "Computer science",
+                "type": "page",
+                "timestamp": "2019-03-21T14:41:05Z"
+            },
+            {
+                "pageid": 909420,
+                "ns": 0,
+                "title": "Category:Class-based programming languages",
+                "type": "subcat",
+                "timestamp": "2020-12-03T05:10:57Z"
+            },
+            {
+                "pageid": 50761824,
+                "ns": 0,
+                "title": "4D vector",
+                "type": "page",
+                "timestamp": "2020-10-10T09:33:14Z"
+            },
+            {
+                "pageid": 60491,
+                "ns": 0,
+                "title": "Abstraction (computer science)",
+                "type": "page",
+                "timestamp": "2020-08-28T05:43:56Z"
+            },
+            {
+                "pageid": 61776737,
+                "ns": 0,
+                "title": "Agnostic (data)",
+                "type": "page",
+                "timestamp": "2019-09-14T14:42:24Z"
+            },
+            {
+                "pageid": 4234887,
+                "ns": 0,
+                "title": "AP Computer Science",
+                "type": "page",
+                "timestamp": "2020-08-28T05:45:16Z"
+            },
+            {
+                "pageid": 2701254,
+                "ns": 0,
+                "title": "Bachelor of Computer Science",
+                "type": "page",
+                "timestamp": "2020-08-28T05:42:56Z"
+            },
+            {
+                "pageid": 30780965,
+                "ns": 0,
+                "title": "Bidirectional transformation",
+                "type": "page",
+                "timestamp": "2019-10-05T03:25:33Z"
+            },
+            {
+                "pageid": 212335,
+                "ns": 0,
+                "title": "Boolean",
+                "type": "page",
+                "timestamp": "2017-12-04T09:25:39Z"
+            },
+            {
+                "pageid": 58469254,
+                "ns": 0,
+                "title": "CLEVER score",
+                "type": "page",
+                "timestamp": "2018-09-12T17:18:45Z"
+            }
+        ]
+    }
+}

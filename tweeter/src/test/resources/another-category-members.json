@@ -1,0 +1,77 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 5548053,
+                "ns": 0,
+                "title": "Coding best practices",
+                "type": "page",
+                "timestamp": "2014-11-05T20:46:26Z"
+            },
+            {
+                "pageid": 35117434,
+                "ns": 0,
+                "title": "Compile and go system",
+                "type": "page",
+                "timestamp": "2012-03-20T02:46:52Z"
+            },
+            {
+                "pageid": 232500,
+                "ns": 0,
+                "title": "Computer code",
+                "type": "page",
+                "timestamp": "2017-10-27T20:16:20Z"
+            },
+            {
+                "pageid": 3224769,
+                "ns": 0,
+                "title": "Computer network programming",
+                "type": "page",
+                "timestamp": "2010-09-20T23:35:06Z"
+            },
+            {
+                "pageid": 5783,
+                "ns": 0,
+                "title": "Computer program",
+                "type": "page",
+                "timestamp": "2019-10-11T15:26:22Z"
+            },
+            {
+                "pageid": 7380371,
+                "ns": 0,
+                "title": "Computer programming in the punched card era",
+                "type": "page",
+                "timestamp": "2006-10-10T14:15:38Z"
+            },
+            {
+                "pageid": 5647807,
+                "ns": 0,
+                "title": "Conditional operator",
+                "type": "page",
+                "timestamp": "2020-05-03T13:44:12Z"
+            },
+            {
+                "pageid": 42177488,
+                "ns": 0,
+                "title": "Creative coding",
+                "type": "page",
+                "timestamp": "2014-03-11T23:03:19Z"
+            },
+            {
+                "pageid": 66657316,
+                "ns": 0,
+                "title": "Cryptojacking malware",
+                "type": "page",
+                "timestamp": "2021-02-07T14:48:50Z"
+            },
+            {
+                "pageid": 3254510,
+                "ns": 0,
+                "title": "Scala (programming language)",
+                "type": "page",
+                "timestamp": "2016-01-24T04:28:33Z"
+            }
+        ]
+    }
+}

@@ -1,0 +1,77 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 54690679,
+                "ns": 0,
+                "title": "Computational human modeling",
+                "type": "page",
+                "timestamp": "2017-08-03T08:20:13Z"
+            },
+            {
+                "pageid": 61580753,
+                "ns": 0,
+                "title": "Computational politics",
+                "type": "page",
+                "timestamp": "2019-11-02T09:09:19Z"
+            },
+            {
+                "pageid": 1181008,
+                "ns": 0,
+                "title": "Computational science",
+                "type": "page",
+                "timestamp": "2020-04-18T13:23:33Z"
+            },
+            {
+                "pageid": 51245349,
+                "ns": 0,
+                "title": "Computational social choice",
+                "type": "page",
+                "timestamp": "2016-11-28T18:24:25Z"
+            },
+            {
+                "pageid": 65031309,
+                "ns": 0,
+                "title": "Computational tools for artificial intelligence",
+                "type": "page",
+                "timestamp": "2020-08-22T00:56:21Z"
+            },
+            {
+                "pageid": 18567168,
+                "ns": 0,
+                "title": "Computer graphics (computer science)",
+                "type": "page",
+                "timestamp": "2020-08-28T05:46:02Z"
+            },
+            {
+                "pageid": 524425,
+                "ns": 0,
+                "title": "Computer science and engineering",
+                "type": "page",
+                "timestamp": "2020-08-28T05:40:45Z"
+            },
+            {
+                "pageid": 21166866,
+                "ns": 0,
+                "title": "Computer science education",
+                "type": "page",
+                "timestamp": "2020-02-07T15:42:13Z"
+            },
+            {
+                "pageid": 34549363,
+                "ns": 0,
+                "title": "Critical code studies",
+                "type": "page",
+                "timestamp": "2016-11-08T17:23:00Z"
+            },
+            {
+                "pageid": 8525,
+                "ns": 0,
+                "title": "Digital signal processing",
+                "type": "page",
+                "timestamp": "2020-04-13T09:03:45Z"
+            }
+        ]
+    }
+}

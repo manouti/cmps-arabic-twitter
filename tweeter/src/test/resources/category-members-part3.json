@@ -1,0 +1,70 @@
+{
+    "batchcomplete": "",
+    "query": {
+        "categorymembers": [
+            {
+                "pageid": 49191856,
+                "ns": 0,
+                "title": "Renjin",
+                "type": "page",
+                "timestamp": "2016-02-05T07:45:50Z"
+            },
+            {
+                "pageid": 344767,
+                "ns": 0,
+                "title": "Rhino (JavaScript engine)",
+                "type": "page",
+                "timestamp": "2014-07-01T16:58:36Z"
+            },
+            {
+                "pageid": 3254510,
+                "ns": 0,
+                "title": "Scala (programming language)",
+                "type": "page",
+                "timestamp": "2016-01-24T04:28:33Z"
+            },
+            {
+                "pageid": 13363730,
+                "ns": 0,
+                "title": "SISC",
+                "type": "page",
+                "timestamp": "2007-09-25T07:07:27Z"
+            },
+            {
+                "pageid": 39874090,
+                "ns": 0,
+                "title": "Umple",
+                "type": "page",
+                "timestamp": "2013-07-11T18:44:48Z"
+            },
+            {
+                "pageid": 5621733,
+                "ns": 0,
+                "title": "Web Language",
+                "type": "page",
+                "timestamp": "2009-03-17T18:24:24Z"
+            },
+            {
+                "pageid": 1932246,
+                "ns": 0,
+                "title": "X10 (programming language)",
+                "type": "page",
+                "timestamp": "2014-06-20T20:24:56Z"
+            },
+            {
+                "pageid": 36462606,
+                "ns": 0,
+                "title": "Xtend",
+                "type": "page",
+                "timestamp": "2012-07-17T14:15:56Z"
+            },
+            {
+                "pageid": 2248859,
+                "ns": 0,
+                "title": "Yoix",
+                "type": "page",
+                "timestamp": "2012-07-07T06:32:27Z"
+            }
+        ]
+    }
+}
