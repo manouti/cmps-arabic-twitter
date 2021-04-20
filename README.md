@@ -6,11 +6,11 @@ This repo hosts the code of the Twitter bot that randomly sends tweets about Pro
 - a messaging queue source
 - a Wikipedia API source
 
-#Building
+# Building
 
 The code requires Java 11. For more information on Java, or to download it, please check https://openjdk.java.net/
 
-#Configuration
+# Configuration
 
 There are two main pieces of configuration:
 
